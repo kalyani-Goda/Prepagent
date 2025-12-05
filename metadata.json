@@ -1,0 +1,5 @@
+{
+  "name": "InterviewPrep AI",
+  "description": "An intelligent agent that organizes your study materials into structured interview preparation plans, questions, and case studies using Gemini 2.5 and Google Search.",
+  "requestFramePermissions": []
+}
